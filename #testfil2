@@ -1,0 +1,7 @@
+#testar att skapa en fil
+#här kan man skriva saker
+d = """this
+will be printed
+in 3 lines"""
+
+print(d)
